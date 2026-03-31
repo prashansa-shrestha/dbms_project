@@ -1,0 +1,7 @@
+person_id,first_name,middle_name,last_name,email,skill_level,keywords
+mentor_1,Sanjay,,Maharjan,sanjay@pcampus.edu.np,5,Machine Learning;Data Science
+mentor_2,Priya,,Shrestha,priya@pcampus.edu.np,4,Web Development;JavaScript
+mentor_3,Rohan,,Pandey,rohan@pcampus.edu.np,4,Machine Learning;Python
+mentor_4,Anita,Kumari,Thapa,anita@pcampus.edu.np,5,Cloud Computing;DevOps
+mentor_5,Suresh,,Karki,suresh@pcampus.edu.np,4,Cybersecurity;Cloud Computing
+mentor_6,Nisha,Devi,Adhikari,nisha@pcampus.edu.np,5,Data Science;Statistics

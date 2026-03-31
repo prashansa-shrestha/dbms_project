@@ -1,0 +1,7 @@
+person_id,first_name,middle_name,last_name,email,keywords
+mentee_1,Kabita,,Tamang,kabita@pcampus.edu.np,Machine Learning;Data Science
+mentee_2,Ujjwal,,Bhandari,ujjwal@pcampus.edu.np,Web Development;JavaScript
+mentee_3,Samiksha,,Rai,samiksha@pcampus.edu.np,Machine Learning;Python
+mentee_4,Dipesh,Raj,Gurung,dipesh@pcampus.edu.np,Cloud Computing;DevOps
+mentee_5,Manisha,,Basnet,manisha@pcampus.edu.np,Cybersecurity;Cloud Computing
+mentee_6,Anil,,Pradhan,anil@pcampus.edu.np,Data Science;Statistics
